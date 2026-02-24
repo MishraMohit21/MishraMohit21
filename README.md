@@ -56,22 +56,7 @@ Graphics         →  OpenGL | Batch Rendering | GLSL Shaders | GPU Memory
 | [Teddy Engine](https://github.com/MishraMohit21/Teddy) | 2D game engine with OpenGL batch renderer, ECS architecture and event-driven design | `C++17` `OpenGL` `GLSL` |
 | [PTV CLI](https://github.com/MishraMohit21/PTV_CLI) | Real-time Linux process viewer reading directly from /proc with color-coded CPU/memory bars | `C++` `Linux` `/proc` |
 
----
 
-### GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MishraMohit21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishraMohit21&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800"/>
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=MishraMohit21&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
 
 <div align="center">
 
